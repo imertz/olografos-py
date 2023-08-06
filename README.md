@@ -15,7 +15,7 @@ pip install olografos
 Εισαγωγή
 
 ```python
-import olografos
+from olografos import olografos
 
 print(olografos(123456789))
 # Output: εκατόν εικοσιτρία εκατομμύρια τετρακόσιες πενηνταέξι χιλιάδες επτακόσια ογδονταεννέα

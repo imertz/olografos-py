@@ -2271,6 +2271,3 @@ def olografos(
     if "-" in str(num):
         final_string = f"μείον {final_string}"
     return final_string
-
-
-print(olografos(123456789))
